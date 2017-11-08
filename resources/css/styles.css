@@ -23,5 +23,25 @@ h3 {
 }
 
 .header {
-	background-image: url("../broadway/resources/images/the-flatiron-building.png");
+	background-image: url("../images/the-flatiron-building.png");	
+	background-size: cover;
+}
+.header p a {
+	color: white;
+	font-size: 18px;
+}
+
+.designedin h3 {
+	background-image: url("../images/the-flatiron-building.png");
+	color: white;
+}
+
+.footer {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+}
+.footer a {
+	color: white;
 }
