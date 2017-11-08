@@ -23,5 +23,5 @@ h3 {
 }
 
 .header {
-	background-image: "../broadway/resources/images/the-flatiron-building.png"
+	background-image: url("../broadway/resources/images/the-flatiron-building.png");
 }
